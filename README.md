@@ -23,34 +23,9 @@ In this project, we analyze the sentiment of news headlines related to specific 
 - **Matplotlib & Seaborn**: For creating visualizations to showcase the results.
 - **Scikit-Learn**: For implementing machine learning models.
 
-## Getting Started
-
-To get started with this project, you can clone this repository and run the notebook locally. Follow the steps below:
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/yourusername/stock-sentiment-analysis.git
-    cd stock-sentiment-analysis
-    ```
-
-2. **Install the required dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Run the Jupyter Notebook**:
-    ```bash
-    jupyter notebook Stock_Sentiment_Analysis.ipynb
-    ```
 
 ## Results
 
 The analysis reveals intriguing patterns between public sentiment and stock price fluctuations. Positive sentiment often correlates with upward price movements, while negative sentiment can signal potential declines. The visualizations in the notebook provide a clear depiction of these relationships, offering valuable insights for investors.
 
-## Contributing
 
-We welcome contributions to enhance this project! If you have ideas for improvements or new features, feel free to fork the repository and submit a pull request.
-
-## Acknowledgements
-
-Special thanks to the open-source community for providing the tools and libraries that made this project possible.
